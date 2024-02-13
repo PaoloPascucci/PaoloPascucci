@@ -12,10 +12,10 @@ Se stai cercando uno sviluppatore Junior con competenze specifiche, non esitare 
 
 ## Collegati con me:
 
-[<img src="path/to/linkedin-icon.png" width="30">](https://www.linkedin.com/in/paolo-pascucci-079b4b173/)
+[<img src="LinkedIn-Symbole.webp" width="80">](https://www.linkedin.com/in/paolo-pascucci-079b4b173/)
 
 ## Linguaggi e Strumenti:
 
-<img src="path/to/html-icon.png" alt="HTML" title="HTML" width="30"> <img src="path/to/css-icon.png" alt="CSS" title="CSS" width="30"> <img src="path/to/js-icon.png" alt="JavaScript" title="JavaScript" width="30"> <img src="path/to/typescript-icon.png" alt="TypeScript" title="TypeScript" width="30"> <img src="path/to/angular-icon.png" alt="AngularJS" title="AngularJS" width="30">
+<img src="html5-logo.png" alt="HTML" title="HTML" width="50"> <img src="css3-logo.png" alt="CSS" title="CSS" width="70"> <img src="javascript-logo.png" alt="JavaScript" title="JavaScript" width="50"> <img src="bootstrap-logo.png" alt="Bootstrap" title="Bootstrap" width="50"> <img src="Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" width="50"> <img src="php-logo-1.png" alt="PHP" title="PHP" width="80"> <img src="laravel-logo-1.png" alt="Laravel" title="Laravel" width="50">  <img src="git-logo.png" alt="GIT" title="GIT" width="100"> <img src="angular-icon-logo.png" alt="AngularJS" title="AngularJS" width="50">
 
 ![Developer](path/to/developer-image.png)
